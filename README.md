@@ -1,9 +1,9 @@
-# 🧩 Flutter Widget Playground
+#  Flutter Widget Playground
 
 Eksplorasi widget-widget dasar Flutter — Stateless vs Stateful, layout widget,
 ListView, Stack, dan interaksi UI sederhana.
 
-## ✨ Fitur
+##  Fitur
 
 - Counter dengan `setState`
 - Promo banner menggunakan `Stack` + `Positioned`
@@ -11,7 +11,7 @@ ListView, Stack, dan interaksi UI sederhana.
 - Swipe-to-delete dengan `Dismissible`
 - Tambah & hapus item secara dinamis
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Flutter
 - Dart
@@ -25,7 +25,7 @@ Widget yang digunakan:
 - `ListView.builder`
 - `Dismissible`
 
-## 📱 Screenshot
+##  Screenshot
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00b2b846-24d5-4b82-9e90-4ca435a1ff92" width="45%">
@@ -38,3 +38,35 @@ Widget yang digunakan:
 flutter pub get
 flutter run
 ```
+## 👨‍💻 Author
+
+**Wahyu Ravi Anggoro**  
+*Student at SMK Telkom Malang*
+
+- **GitHub:** [@WagyuuA5](https://github.com/WagyuuA5)
+
+---
+
+##  License
+
+Copyright © 2026 **Wahyu Ravi Anggoro**
+
+Licensed under the **Apache License, Version 2.0** (the "License");  
+you may not use this file except in compliance with the License.  
+You may obtain a copy of the License at:
+
+[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an **"AS IS" BASIS**, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+---
+
+<div align="center">
+
+###  If you found this project helpful, please consider giving it a star!
+
+*Building reliable software through clean code, continuous learning, and practical experience.*
+
+Made  by **Wahyu Ravi Anggoro**
+
+</div>
