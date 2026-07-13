@@ -1,16 +1,27 @@
-# wdgt_playground_main
+# 🧩 Flutter Widget Playground
 
-A new Flutter project.
+Eksplorasi widget-widget dasar Flutter — Stateless vs Stateful, layout widget,
+ListView, Stack, dan interaksi UI sederhana.
 
-## Getting Started
+## ✨ Fitur
+- Counter dengan `setState`
+- Promo banner menggunakan `Stack` + `Positioned`
+- List dengan `ListView.builder` + swipe-to-delete (`Dismissible`)
+- Tambah & hapus item secara dinamis
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter, Dart
+- Widget: `Row`, `Column`, `Stack`, `ListView.builder`, `Dismissible`
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshot
+<!-- <img width="610" height="970" alt="image" src="https://github.com/user-attachments/assets/00b2b846-24d5-4b82-9e90-4ca435a1ff92" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img width="613" height="971" alt="image" src="https://github.com/user-attachments/assets/ef9e9e8b-0911-40a6-b20f-e1e6a2422d1c" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ -->
+
+## 🚀 Cara Menjalankan
+```bash
+flutter pub get
+flutter run
+```
