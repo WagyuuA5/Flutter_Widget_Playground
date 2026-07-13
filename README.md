@@ -1,22 +1,22 @@
-#  Flutter Widget Playground
+# Flutter Widget Playground
 
-Eksplorasi widget-widget dasar Flutter — Stateless vs Stateful, layout widget,
-ListView, Stack, dan interaksi UI sederhana.
+An exploration of basic Flutter widgets — Stateless vs. Stateful, layout widgets,
+ListView, Stack, and simple UI interactions.
 
-##  Fitur
+## Features
 
-- Counter dengan `setState`
-- Promo banner menggunakan `Stack` + `Positioned`
-- List menggunakan `ListView.builder`
-- Swipe-to-delete dengan `Dismissible`
-- Tambah & hapus item secara dinamis
+- Counter using `setState`
+- Promo banner using `Stack` + `Positioned`
+- List using `ListView.builder`
+- Swipe-to-dismiss using `Dismissible`
+- Dynamically add & remove items
 
-##  Tech Stack
+## Tech Stack
 
 - Flutter
 - Dart
 
-Widget yang digunakan:
+Widgets used:
 
 - `Row`
 - `Column`
@@ -25,20 +25,21 @@ Widget yang digunakan:
 - `ListView.builder`
 - `Dismissible`
 
-##  Screenshot
+## Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/00b2b846-24d5-4b82-9e90-4ca435a1ff92" width="45%">
   <img src="https://github.com/user-attachments/assets/ef9e9e8b-0911-40a6-b20f-e1e6a2422d1c" width="45%">
 </p>
 
-## 🚀 Cara Menjalankan
+##  Run the Project
 
 ```bash
 flutter pub get
 flutter run
 ```
-## 👨‍💻 Author
+
+##  Author
 
 **Wahyu Ravi Anggoro**  
 *Student at SMK Telkom Malang*
@@ -47,14 +48,12 @@ flutter run
 
 ---
 
-
-
 <div align="center">
 
-###  If you found this project helpful, please consider giving it a star!
+### If you find this project useful, please consider giving it a star!
 
 *Building reliable software through clean code, continuous learning, and practical experience.*
 
-Made  by **Wahyu Ravi Anggoro**
+Created by **Wahyu Ravi Anggoro**
 
 </div>
